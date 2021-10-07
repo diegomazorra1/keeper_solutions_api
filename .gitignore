@@ -1,0 +1,4 @@
+#archivos basura
+# Ignora todos los archivos de texto
+*.pyc
+ 
