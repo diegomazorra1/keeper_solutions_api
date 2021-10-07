@@ -37,7 +37,7 @@ manage of bookmarks
 
 8.- Make the unit tests:
  
-                        python manage.py runserver
+                        python manage.py test
               
 9.- Enjoy
               
