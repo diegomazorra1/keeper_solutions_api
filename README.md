@@ -39,6 +39,6 @@ manage of bookmarks
  
                         python manage.py runserver
               
-8.- Enjoy
+9.- Enjoy
               
               
